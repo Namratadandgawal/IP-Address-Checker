@@ -67,7 +67,7 @@ python ip_address_checker.py
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](menu.png)
+![Main Menu](menu.png.png)
 
 ### Computer Information
 ![Computer Information](computer_info.png)
