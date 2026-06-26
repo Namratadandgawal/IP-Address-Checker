@@ -1,52 +1,104 @@
-#  IP Address Checker
+# 🌐 IP Address Checker
 
-A simple Python networking tool that displays computer information and performs website/IP address lookups.
+A beginner-friendly Python networking tool that helps users retrieve computer network information, resolve website domain names into IP addresses, and perform reverse DNS lookups.
 
-## Features
+---
 
-- View computer information
-- Display local IP address
-- Check internet connection
-- Website DNS lookup
-- Reverse DNS lookup
-- Detect Private/Public IP
-- Detect IPv4/IPv6
+## 📌 Features
 
-## Technologies Used
+* 🖥️ Display computer hostname
+* 🌐 Display local IP address
+* 📡 Check internet connectivity
+* 🔍 Resolve website domains to IP addresses
+* 🔄 Reverse DNS lookup (IP → Hostname)
+* 🔒 Detect Private or Public IP addresses
+* 🌍 Identify IPv4 or IPv6 addresses
+* 📝 Simple menu-driven interface
 
-- Python
-- socket
-- ipaddress
-- datetime
+---
 
-## Screenshots
+## 🛠️ Technologies Used
 
-### Main Menu
+* Python 3
+* socket
+* ipaddress
+* datetime
 
-![Menu](screenshots/menu.png)
+---
 
-### Computer Information
+## 📂 Project Structure
 
-![Computer Info](screenshots/computer_info.png)
+```text
+IP-Address-Checker/
+│
+├── ip_address_checker.py
+├── README.md
+└── screenshots/
+    ├── menu.png
+    ├── computer_info.png
+    ├── website_lookup.png
+    └── ip_lookup.png
+```
 
-### Website Lookup
+---
 
-![Website](screenshots/website_lookup.png)
+## 🚀 How to Run
 
-### IP Lookup
+1. Clone the repository
 
-![IP](screenshots/ip_lookup.png)
+```bash
+git clone https://github.com/YOUR_USERNAME/IP-Address-Checker.git
+```
 
-## How to Run
+2. Open the project folder
+
+```bash
+cd IP-Address-Checker
+```
+
+3. Run the program
 
 ```bash
 python ip_address_checker.py
 ```
 
-## Future Improvements
+---
 
-- Ping Test
-- Public IP Detection
-- IP Geolocation
-- DNS Record Lookup
-- Export Results
+## 📸 Screenshots
+
+### Main Menu
+
+### Computer Information
+
+### Website Lookup
+
+### IP Address Lookup
+
+---
+
+## 🎯 Learning Objectives
+
+This project helped me understand:
+
+* Computer networking fundamentals
+* DNS (Domain Name System)
+* Reverse DNS lookup
+* IP address classification
+* IPv4 and IPv6
+* Python socket programming
+* Exception handling
+
+---
+
+## 🔮 Future Improvements
+
+* Public IP detection
+* Ping utility
+* IP geolocation
+* DNS record lookup (A, AAAA, MX, TXT)
+* Export lookup results
+* Colored terminal output
+
+---
+
+##
