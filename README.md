@@ -67,16 +67,16 @@ python ip_address_checker.py
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/menu.png)
+![Main Menu](menu.png)
 
 ### Computer Information
-![Computer Information](screenshots/computer_info.png)
+![Computer Information](computer_info.png)
 
 ### Website Lookup
-![Website Lookup](screenshots/website_lookup.png)
+![Website Lookup](website_lookup.png)
 
 ### IP Address Lookup
-![IP Address Lookup](screenshots/ip_lookup.png)
+![IP Address Lookup](ip_lookup.png)
 
 ---
 
